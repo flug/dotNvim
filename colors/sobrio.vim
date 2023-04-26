@@ -1,0 +1,1 @@
+/home/marc/.config/nvim/pack/packager/start/sobrio/colors/sobrio.vim
