@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/marc/workspace/lucy/app/Console/Commands/Database'
+let g:netrw_dirhist_2='/home/marc/workspace/lucy/.git/hooks'
+let g:netrw_dirhist_3='/home/marc/workspace/lucy/app/Services/Domain'
+let g:netrw_dirhist_4='/home/marc/workspace/ncurses-cli/src'
+let g:netrw_dirhist_5='/home/marc/workspace/lucy'
+let g:netrw_dirhist_6='/home/marc/dotNvim'

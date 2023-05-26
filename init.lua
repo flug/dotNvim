@@ -2,6 +2,7 @@ require('flug.general')
 require('flug.mappings')
 require('flug.plugins')
 require('flug.telescope')
+require('flug.coc')
 
 
 

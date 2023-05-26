@@ -14,7 +14,11 @@ map('i', '<up>', '<nop>', silentnoremap)
 map('i', '<down>', '<nop>', silentnoremap)
 map('i', '<left>', '<nop>', silentnoremap)
 map('i', '<right>', '<nop>', silentnoremap)
-
+-- Tabs 
+map('n', '<A-Left>', ':-tabmove<cr>', silentnoremap)
+map('n', '<A-Right>', ':+tabmove<cr>', silentnoremap)
+map('n', '<C-t>', ':tabnew<CR>', { noremap = true })
+map('n', '<C-]>', ':tabclose<CR>', { noremap = true })
 -- http://stackoverflow.com/questions/80677/what-is-the-difference-between-c-c-and-c-in-vim
 map('i', '<C-c>', '<Esc><Esc>', silentnoremap)
 

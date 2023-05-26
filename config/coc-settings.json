@@ -1,0 +1,20 @@
+{
+  "languageserver": {
+    "intelephense": {
+      "enable": true,
+      "memoryLimit": 4096,
+      "maxNumberOfProblems": 500
+    }
+  },
+  "php.suggest.basic": false,
+  "php.suggest.completeFunctionCalls": true,
+  "php.suggest.completionProvider": "coc-phpls",
+  "php.validate.enable": true,
+  "php.validate.run": "onType",
+  "php.validate.executablePath": "php",
+  "php.documentHighlight.enable": true,
+  "php.documentSymbol.enable": true,
+  "php.signatureHelp.enable": true,
+  "php.format.enable": true
+}
+
